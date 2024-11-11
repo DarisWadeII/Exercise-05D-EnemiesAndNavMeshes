@@ -18,7 +18,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &328616905379474024
 Transform:
   m_ObjectHideFlags: 0
@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ba2ee13770c13e3438660f266ed5505b, type: 2}
+  - {fileID: 2100000, guid: c39a0e8f7d2dc784fa53fe070670ec5d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -158,7 +158,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7413848948845594107
 Transform:
   m_ObjectHideFlags: 0
@@ -202,7 +202,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c39a0e8f7d2dc784fa53fe070670ec5d, type: 2}
+  - {fileID: 2100000, guid: 232e255f92252424992f458fac51163f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -307,7 +307,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ba2ee13770c13e3438660f266ed5505b, type: 2}
+  - {fileID: 2100000, guid: 232e255f92252424992f458fac51163f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -362,7 +362,7 @@ GameObject:
   - component: {fileID: 7986380360635789948}
   - component: {fileID: 959127806812090806}
   - component: {fileID: 6862933760681347501}
-  - component: {fileID: 5006010216774080119}
+  - component: {fileID: 3369328746353793183}
   m_Layer: 0
   m_Name: Floor
   m_TagString: Untagged
@@ -413,7 +413,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ba2ee13770c13e3438660f266ed5505b, type: 2}
+  - {fileID: 2100000, guid: c190dc2c3441a7944ab4e92d608db063, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -456,7 +456,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &5006010216774080119
+--- !u!114 &3369328746353793183
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -485,7 +485,7 @@ MonoBehaviour:
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
   m_MinRegionArea: 2
-  m_NavMeshData: {fileID: 23800000, guid: bf09277ab81b49d41b6f186494403e56, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: 8e527a07596ac814c9cee5055b749ed6, type: 2}
   m_BuildHeightMesh: 0
 --- !u!1 &5375744327168383293
 GameObject:
@@ -552,9 +552,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '13
-
-'
+  m_text: 11
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -635,7 +633,7 @@ GameObject:
   - component: {fileID: 5463211065746403966}
   - component: {fileID: 5355443748250403083}
   m_Layer: 0
-  m_Name: Tile13
+  m_Name: Marble 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -751,7 +749,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4aaa1968cfcd94b43a4668b401ff5c5f, type: 2}
+  - {fileID: 2100000, guid: 232e255f92252424992f458fac51163f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

@@ -1895,7 +1895,7 @@ GameObject:
   - component: {fileID: 5463211065746403966}
   - component: {fileID: 5355443748250403083}
   m_Layer: 0
-  m_Name: Tile1
+  m_Name: Marble 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
